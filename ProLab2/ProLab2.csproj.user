@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AOtobus1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AOtobus2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AracSecenek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BOtobus1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BOtobus2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="COtobus1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CUcak1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CUcak2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DemirYolu2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FirmaGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FirmaPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FUcak1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FUcak2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GuzergahOtobus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GuzergahTren.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DemirYolu1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GuzergahUcak.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OtobusSeferler1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OtobusSeferler2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OtobusYolu1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OtobusYolu2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tren1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tren2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tren3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TrenSeferler1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TrenSeferler2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UcakSeferler1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UcakSeferler2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UcakYolu1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UcakYolu2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

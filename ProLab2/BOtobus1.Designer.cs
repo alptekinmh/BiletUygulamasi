@@ -1,0 +1,477 @@
+﻿namespace ProLab2
+{
+    partial class BOtobus1
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            groupBox2 = new GroupBox();
+            button13 = new Button();
+            button10 = new Button();
+            button7 = new Button();
+            button4 = new Button();
+            button1 = new Button();
+            groupBox1 = new GroupBox();
+            button15 = new Button();
+            button14 = new Button();
+            button12 = new Button();
+            button11 = new Button();
+            button9 = new Button();
+            button8 = new Button();
+            button6 = new Button();
+            button5 = new Button();
+            button3 = new Button();
+            button2 = new Button();
+            button26 = new Button();
+            CmbxUcret = new TextBox();
+            Ucrettxt = new Label();
+            TxtKoltukNo = new TextBox();
+            KoltukNotxt = new Label();
+            dateTimePicker1 = new DateTimePicker();
+            Cinsiyetcmb = new ComboBox();
+            Tctxt = new TextBox();
+            Emailtxt = new TextBox();
+            SoyadTxt = new TextBox();
+            Adtxt = new TextBox();
+            label6 = new Label();
+            label5 = new Label();
+            label4 = new Label();
+            label3 = new Label();
+            label2 = new Label();
+            label1 = new Label();
+            groupBox2.SuspendLayout();
+            groupBox1.SuspendLayout();
+            SuspendLayout();
+            // 
+            // groupBox2
+            // 
+            groupBox2.Controls.Add(button13);
+            groupBox2.Controls.Add(button10);
+            groupBox2.Controls.Add(button7);
+            groupBox2.Controls.Add(button4);
+            groupBox2.Controls.Add(button1);
+            groupBox2.Location = new Point(159, 366);
+            groupBox2.Name = "groupBox2";
+            groupBox2.Size = new Size(447, 72);
+            groupBox2.TabIndex = 102;
+            groupBox2.TabStop = false;
+            // 
+            // button13
+            // 
+            button13.BackColor = Color.FromArgb(0, 192, 0);
+            button13.Location = new Point(328, 22);
+            button13.Name = "button13";
+            button13.Size = new Size(69, 44);
+            button13.TabIndex = 27;
+            button13.Text = "13";
+            button13.UseVisualStyleBackColor = false;
+            button13.Click += button13_Click;
+            // 
+            // button10
+            // 
+            button10.BackColor = Color.FromArgb(0, 192, 0);
+            button10.Location = new Point(253, 22);
+            button10.Name = "button10";
+            button10.Size = new Size(69, 44);
+            button10.TabIndex = 26;
+            button10.Text = "10";
+            button10.UseVisualStyleBackColor = false;
+            button10.Click += button10_Click;
+            // 
+            // button7
+            // 
+            button7.BackColor = Color.FromArgb(0, 192, 0);
+            button7.Location = new Point(178, 22);
+            button7.Name = "button7";
+            button7.Size = new Size(69, 44);
+            button7.TabIndex = 25;
+            button7.Text = "7";
+            button7.UseVisualStyleBackColor = false;
+            button7.Click += button7_Click;
+            // 
+            // button4
+            // 
+            button4.BackColor = Color.FromArgb(0, 192, 0);
+            button4.Location = new Point(103, 22);
+            button4.Name = "button4";
+            button4.Size = new Size(69, 44);
+            button4.TabIndex = 24;
+            button4.Text = "4";
+            button4.UseVisualStyleBackColor = false;
+            button4.Click += button4_Click;
+            // 
+            // button1
+            // 
+            button1.BackColor = Color.FromArgb(0, 192, 0);
+            button1.Location = new Point(28, 22);
+            button1.Name = "button1";
+            button1.Size = new Size(69, 44);
+            button1.TabIndex = 23;
+            button1.Text = "1";
+            button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
+            // 
+            // groupBox1
+            // 
+            groupBox1.Controls.Add(button15);
+            groupBox1.Controls.Add(button14);
+            groupBox1.Controls.Add(button12);
+            groupBox1.Controls.Add(button11);
+            groupBox1.Controls.Add(button9);
+            groupBox1.Controls.Add(button8);
+            groupBox1.Controls.Add(button6);
+            groupBox1.Controls.Add(button5);
+            groupBox1.Controls.Add(button3);
+            groupBox1.Controls.Add(button2);
+            groupBox1.Location = new Point(159, 12);
+            groupBox1.Name = "groupBox1";
+            groupBox1.Size = new Size(448, 125);
+            groupBox1.TabIndex = 101;
+            groupBox1.TabStop = false;
+            // 
+            // button15
+            // 
+            button15.BackColor = Color.FromArgb(0, 192, 0);
+            button15.Location = new Point(328, 11);
+            button15.Name = "button15";
+            button15.Size = new Size(69, 44);
+            button15.TabIndex = 34;
+            button15.Text = "15";
+            button15.UseVisualStyleBackColor = false;
+            button15.Click += button15_Click;
+            // 
+            // button14
+            // 
+            button14.BackColor = Color.FromArgb(0, 192, 0);
+            button14.Location = new Point(328, 70);
+            button14.Name = "button14";
+            button14.Size = new Size(69, 44);
+            button14.TabIndex = 33;
+            button14.Text = "14";
+            button14.UseVisualStyleBackColor = false;
+            button14.Click += button14_Click;
+            // 
+            // button12
+            // 
+            button12.BackColor = Color.FromArgb(0, 192, 0);
+            button12.Location = new Point(253, 11);
+            button12.Name = "button12";
+            button12.Size = new Size(69, 44);
+            button12.TabIndex = 32;
+            button12.Text = "12";
+            button12.UseVisualStyleBackColor = false;
+            button12.Click += button12_Click;
+            // 
+            // button11
+            // 
+            button11.BackColor = Color.FromArgb(0, 192, 0);
+            button11.Location = new Point(253, 70);
+            button11.Name = "button11";
+            button11.Size = new Size(69, 44);
+            button11.TabIndex = 31;
+            button11.Text = "11";
+            button11.UseVisualStyleBackColor = false;
+            button11.Click += button11_Click;
+            // 
+            // button9
+            // 
+            button9.BackColor = Color.FromArgb(0, 192, 0);
+            button9.Location = new Point(178, 11);
+            button9.Name = "button9";
+            button9.Size = new Size(69, 44);
+            button9.TabIndex = 30;
+            button9.Text = "9";
+            button9.UseVisualStyleBackColor = false;
+            button9.Click += button9_Click;
+            // 
+            // button8
+            // 
+            button8.BackColor = Color.FromArgb(0, 192, 0);
+            button8.Location = new Point(178, 70);
+            button8.Name = "button8";
+            button8.Size = new Size(69, 44);
+            button8.TabIndex = 29;
+            button8.Text = "8";
+            button8.UseVisualStyleBackColor = false;
+            button8.Click += button8_Click;
+            // 
+            // button6
+            // 
+            button6.BackColor = Color.FromArgb(0, 192, 0);
+            button6.Location = new Point(103, 11);
+            button6.Name = "button6";
+            button6.Size = new Size(69, 44);
+            button6.TabIndex = 28;
+            button6.Text = "6";
+            button6.UseVisualStyleBackColor = false;
+            button6.Click += button6_Click;
+            // 
+            // button5
+            // 
+            button5.BackColor = Color.FromArgb(0, 192, 0);
+            button5.Location = new Point(103, 70);
+            button5.Name = "button5";
+            button5.Size = new Size(69, 44);
+            button5.TabIndex = 27;
+            button5.Text = "5";
+            button5.UseVisualStyleBackColor = false;
+            button5.Click += button5_Click;
+            // 
+            // button3
+            // 
+            button3.BackColor = Color.FromArgb(0, 192, 0);
+            button3.Location = new Point(28, 11);
+            button3.Name = "button3";
+            button3.Size = new Size(69, 44);
+            button3.TabIndex = 26;
+            button3.Text = "3";
+            button3.UseVisualStyleBackColor = false;
+            button3.Click += button3_Click;
+            // 
+            // button2
+            // 
+            button2.BackColor = Color.FromArgb(0, 192, 0);
+            button2.Location = new Point(28, 70);
+            button2.Name = "button2";
+            button2.Size = new Size(69, 44);
+            button2.TabIndex = 25;
+            button2.Text = "2";
+            button2.UseVisualStyleBackColor = false;
+            button2.Click += button2_Click;
+            // 
+            // button26
+            // 
+            button26.Location = new Point(369, 308);
+            button26.Name = "button26";
+            button26.Size = new Size(75, 23);
+            button26.TabIndex = 100;
+            button26.Text = "Kaydet";
+            button26.UseVisualStyleBackColor = true;
+            button26.Click += button26_Click;
+            // 
+            // CmbxUcret
+            // 
+            CmbxUcret.Location = new Point(627, 217);
+            CmbxUcret.Name = "CmbxUcret";
+            CmbxUcret.Size = new Size(100, 23);
+            CmbxUcret.TabIndex = 99;
+            // 
+            // Ucrettxt
+            // 
+            Ucrettxt.AutoSize = true;
+            Ucrettxt.Location = new Point(544, 225);
+            Ucrettxt.Name = "Ucrettxt";
+            Ucrettxt.Size = new Size(38, 15);
+            Ucrettxt.TabIndex = 98;
+            Ucrettxt.Text = "Ucret:";
+            // 
+            // TxtKoltukNo
+            // 
+            TxtKoltukNo.Location = new Point(627, 172);
+            TxtKoltukNo.Name = "TxtKoltukNo";
+            TxtKoltukNo.ReadOnly = true;
+            TxtKoltukNo.Size = new Size(100, 23);
+            TxtKoltukNo.TabIndex = 97;
+            // 
+            // KoltukNotxt
+            // 
+            KoltukNotxt.AutoSize = true;
+            KoltukNotxt.Location = new Point(544, 175);
+            KoltukNotxt.Name = "KoltukNotxt";
+            KoltukNotxt.Size = new Size(63, 15);
+            KoltukNotxt.TabIndex = 96;
+            KoltukNotxt.Text = "Koltuk No:";
+            // 
+            // dateTimePicker1
+            // 
+            dateTimePicker1.Location = new Point(369, 261);
+            dateTimePicker1.Name = "dateTimePicker1";
+            dateTimePicker1.Size = new Size(169, 23);
+            dateTimePicker1.TabIndex = 95;
+            // 
+            // Cinsiyetcmb
+            // 
+            Cinsiyetcmb.FormattingEnabled = true;
+            Cinsiyetcmb.Items.AddRange(new object[] { "Erkek", "Kadin" });
+            Cinsiyetcmb.Location = new Point(151, 258);
+            Cinsiyetcmb.Name = "Cinsiyetcmb";
+            Cinsiyetcmb.Size = new Size(121, 23);
+            Cinsiyetcmb.TabIndex = 94;
+            // 
+            // Tctxt
+            // 
+            Tctxt.Location = new Point(369, 172);
+            Tctxt.MaxLength = 11;
+            Tctxt.Name = "Tctxt";
+            Tctxt.Size = new Size(100, 23);
+            Tctxt.TabIndex = 93;
+            // 
+            // Emailtxt
+            // 
+            Emailtxt.Location = new Point(369, 214);
+            Emailtxt.Name = "Emailtxt";
+            Emailtxt.Size = new Size(100, 23);
+            Emailtxt.TabIndex = 92;
+            // 
+            // SoyadTxt
+            // 
+            SoyadTxt.Location = new Point(151, 217);
+            SoyadTxt.Name = "SoyadTxt";
+            SoyadTxt.Size = new Size(100, 23);
+            SoyadTxt.TabIndex = 91;
+            // 
+            // Adtxt
+            // 
+            Adtxt.Location = new Point(151, 172);
+            Adtxt.Name = "Adtxt";
+            Adtxt.Size = new Size(100, 23);
+            Adtxt.TabIndex = 90;
+            // 
+            // label6
+            // 
+            label6.AutoSize = true;
+            label6.Location = new Point(292, 264);
+            label6.Name = "label6";
+            label6.Size = new Size(81, 15);
+            label6.TabIndex = 89;
+            label6.Text = "Doğum Tarihi:";
+            // 
+            // label5
+            // 
+            label5.AutoSize = true;
+            label5.Location = new Point(292, 217);
+            label5.Name = "label5";
+            label5.Size = new Size(42, 15);
+            label5.TabIndex = 88;
+            label5.Text = "E Mail:";
+            // 
+            // label4
+            // 
+            label4.AutoSize = true;
+            label4.Location = new Point(287, 175);
+            label4.Name = "label4";
+            label4.Size = new Size(76, 15);
+            label4.TabIndex = 87;
+            label4.Text = "Tc Kimlik No:";
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Location = new Point(73, 261);
+            label3.Name = "label3";
+            label3.Size = new Size(52, 15);
+            label3.TabIndex = 86;
+            label3.Text = "Cinsiyet:";
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Location = new Point(73, 217);
+            label2.Name = "label2";
+            label2.Size = new Size(42, 15);
+            label2.TabIndex = 85;
+            label2.Text = "Soyad:";
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(73, 175);
+            label1.Name = "label1";
+            label1.Size = new Size(25, 15);
+            label1.TabIndex = 84;
+            label1.Text = "Ad:";
+            // 
+            // BOtobus1
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Controls.Add(groupBox2);
+            Controls.Add(groupBox1);
+            Controls.Add(button26);
+            Controls.Add(CmbxUcret);
+            Controls.Add(Ucrettxt);
+            Controls.Add(TxtKoltukNo);
+            Controls.Add(KoltukNotxt);
+            Controls.Add(dateTimePicker1);
+            Controls.Add(Cinsiyetcmb);
+            Controls.Add(Tctxt);
+            Controls.Add(Emailtxt);
+            Controls.Add(SoyadTxt);
+            Controls.Add(Adtxt);
+            Controls.Add(label6);
+            Controls.Add(label5);
+            Controls.Add(label4);
+            Controls.Add(label3);
+            Controls.Add(label2);
+            Controls.Add(label1);
+            Name = "BOtobus1";
+            Text = "BOtobus1";
+            Load += BOtobus1_Load;
+            groupBox2.ResumeLayout(false);
+            groupBox1.ResumeLayout(false);
+            ResumeLayout(false);
+            PerformLayout();
+        }
+
+        #endregion
+
+        private GroupBox groupBox2;
+        private Button button13;
+        private Button button10;
+        private Button button7;
+        private Button button4;
+        private Button button1;
+        private GroupBox groupBox1;
+        private Button button15;
+        private Button button14;
+        private Button button12;
+        private Button button11;
+        private Button button9;
+        private Button button8;
+        private Button button6;
+        private Button button5;
+        private Button button3;
+        private Button button2;
+        private Button button26;
+        private TextBox CmbxUcret;
+        private Label Ucrettxt;
+        private TextBox TxtKoltukNo;
+        private Label KoltukNotxt;
+        private DateTimePicker dateTimePicker1;
+        private ComboBox Cinsiyetcmb;
+        private TextBox Tctxt;
+        private TextBox Emailtxt;
+        private TextBox SoyadTxt;
+        private TextBox Adtxt;
+        private Label label6;
+        private Label label5;
+        private Label label4;
+        private Label label3;
+        private Label label2;
+        private Label label1;
+    }
+}
